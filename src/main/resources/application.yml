@@ -1,0 +1,34 @@
+spring:
+  main:
+    show-banner: false    #关闭springboot图标显示
+server:
+  port: 80
+
+mysql:
+  datasource:
+    test1: 
+      url: jdbc:mysql://localhost:3306/banana1?serverTimezone=UTC&useSSL=false&useUnicode=true&characterEncoding=utf-8
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      username: root
+      password: root
+      minPoolSize: 3
+      maxPoolSize: 25
+      maxLifetime: 20000
+      borrowConnectionTimeout: 30
+      loginTimeout: 30
+      maintenanceInterval: 60
+      maxIdleTime: 60
+      test-query: select 1
+    test2: 
+      url: jdbc:mysql://localhost:3306/banana2?serverTimezone=UTC&useSSL=false&useUnicode=true&characterEncoding=utf-8
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      username: root
+      password: root
+      minPoolSize: 3
+      maxPoolSize: 25
+      maxLifetime: 20000
+      borrowConnectionTimeout: 30
+      loginTimeout: 30
+      maintenanceInterval: 60
+      maxIdleTime: 60
+      test-query: select 1

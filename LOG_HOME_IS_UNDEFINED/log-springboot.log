@@ -1,0 +1,21 @@
+2019-10-14 10:13:33.751 [ restartedMain ] - [ INFO  ] [ cn.linkpower.SpringbootJtaDemoApplication : 50 ] - Starting SpringbootJtaDemoApplication on DESKTOP-T2NABG2 with PID 10864 (D:\springbootdemo\SpringbootJTADemo\target\classes started by 76519 in D:\springbootdemo\SpringbootJTADemo)
+2019-10-14 10:13:33.751 [ restartedMain ] - [ INFO  ] [ cn.linkpower.SpringbootJtaDemoApplication : 675 ] - No active profile set, falling back to default profiles: default
+2019-10-14 10:13:36.482 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-80"]
+2019-10-14 10:13:36.551 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2019-10-14 10:13:36.552 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-10-14 10:13:36.723 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2019-10-14 10:13:37.077 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Stopping service [Tomcat]
+2019-10-14 10:17:07.172 [ restartedMain ] - [ INFO  ] [ cn.linkpower.SpringbootJtaDemoApplication : 50 ] - Starting SpringbootJtaDemoApplication on DESKTOP-T2NABG2 with PID 9852 (D:\springbootdemo\SpringbootJTADemo\target\classes started by 76519 in D:\springbootdemo\SpringbootJTADemo)
+2019-10-14 10:17:07.176 [ restartedMain ] - [ INFO  ] [ cn.linkpower.SpringbootJtaDemoApplication : 675 ] - No active profile set, falling back to default profiles: default
+2019-10-14 10:17:09.538 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-80"]
+2019-10-14 10:17:09.560 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2019-10-14 10:17:09.560 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-10-14 10:17:09.707 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2019-10-14 10:17:10.100 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Stopping service [Tomcat]
+2019-10-14 10:22:33.135 [ restartedMain ] - [ INFO  ] [ cn.linkpower.SpringbootJtaDemoApplication : 50 ] - Starting SpringbootJtaDemoApplication on DESKTOP-T2NABG2 with PID 12552 (D:\springbootdemo\SpringbootJTADemo\target\classes started by 76519 in D:\springbootdemo\SpringbootJTADemo)
+2019-10-14 10:22:33.151 [ restartedMain ] - [ INFO  ] [ cn.linkpower.SpringbootJtaDemoApplication : 675 ] - No active profile set, falling back to default profiles: default
+2019-10-14 10:22:36.075 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-80"]
+2019-10-14 10:22:36.128 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2019-10-14 10:22:36.128 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-10-14 10:22:36.291 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2019-10-14 10:22:36.575 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Stopping service [Tomcat]
